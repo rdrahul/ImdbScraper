@@ -1,0 +1,14 @@
+At this Moment the module can be run in any of two mode:
+1.Graphical Mode:
+	usage: 
+	1.navigate to ImdbScraper Folder.
+ 	2.type "python main.py -g"
+	Details:
+	This mode is user interactive a user can enter any particular movie name and the results would be shown.Currently, it is working only on Movies searches.if you wish you can contrubute to expand it to tv shows and celebrity name.
+
+2.File Mode :
+	usage: 
+	1.navigate to ImdbScraper Folder.
+ 	2.type "python main.py -f valid/folder_path/to_search"
+	Details:
+	This mode takes folder path as an argument,search all the video files in that folder or sub folders and dwonloads a webpage for all of the movies it founds.on can contribute to make the module multithreaded   

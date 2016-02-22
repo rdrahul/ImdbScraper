@@ -1,0 +1,8 @@
+Required:
+python 2.7
+
+Dependencies:
+1.request
+  installation : pip install requests
+2.bs4
+  installation : pip install beautifulsoup4
